@@ -1,0 +1,17 @@
+name: themenew
+type: theme
+description: 'second theme'
+base theme: claro
+core_version_requirement: ^10
+libraries:
+  - themenew/reqstyling
+  - themenew/global-styling
+
+regions:
+  brand: 'Brand'
+  main_navigation: 'Main Navigation'
+  trend_area: 'Trend'
+  content: 'Content'
+  footer: 'footer'
+
+  

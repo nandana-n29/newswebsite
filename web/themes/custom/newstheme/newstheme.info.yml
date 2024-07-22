@@ -1,0 +1,37 @@
+name: newstheme
+type: theme
+base theme: olivero
+description: 'new theme'
+core_version_requirement: ^10
+version: 1.0.0
+libraries:
+  - newstheme/neededcss
+  
+  
+# libraries-extend:
+#   user/drupal.user:
+#     - newstheme/user
+#   core/drupal.dropbutton:
+#     - newstheme/dropbutton
+#   core/drupal.dialog:
+#     - newstheme/dialog
+#   file/drupal.file:
+#     - newstheme/file
+#   core/drupal.progress:
+#     - newstheme/progress
+
+# generator: 'starterkit_theme:10.3.0'
+# regions:
+#   logo: 'Logo'
+#   navbar: 'Navbar'
+#   headermain: 'Header Main'
+#   headert: 'Header Top'
+#   headerb: 'Header Bottom'
+#   headerm: 'Header Middle'
+#   slide: 'Slide'
+#   bottomf: 'Bottom First'
+#   bottoms: 'Bottom Second'
+#   bottomt: 'Bottom Third'
+#   footerone: 'Footer One'
+#   footertwo: 'Footer Two'
+#   footerthree: 'Footer Three'

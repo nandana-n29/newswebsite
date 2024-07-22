@@ -1,0 +1,45 @@
+neededcss:
+  css:
+    theme:
+      css/animate.min.css: {}
+      css/bootstrap.min.css: {}
+      css/flaticon.css: {}
+      css/fontawesome-all.min.css: {}
+      css/gijgo.css: {}
+      css/magnific-popup.css: {}
+      css/main.css: {}
+      css/nice-select.css: {}
+      css/owl.corousel.min.css: {}
+      css/responsive.css: {}
+      css/slick.css: {}
+      css/slicknav.css: {}
+      css/style.css: {}
+      css/style.map: {}
+      css/themify-icons.css: {}
+      css/ticker-style.css: {}
+      css/custom.css: {}
+      
+  js:
+    js/animated.headline.js: {}
+    js/bootstrap.min.js: {}
+    js/contact.js: {}
+    js/gijgo.min.js: {}
+    js/jquery.ajaxchimp.min.js: {}
+    js/jquery.form.js: {}
+    js/jquery.magnific-popup.js: {}
+    js/jquery.nice-select.min.js: {}
+    js/jquery.paroller.min.js: {}
+    js/jquery.scrollup.min.js: {}
+    js/jquery.slicknav.min.js: {}
+    js/jquery.sticky.js: {}
+    js/jquery.ticker.js: {}
+    js/jquery.validate.min.js: {}
+    js/mail-script.js: {}
+    js/main.js: {}
+    js/one-page-nav-min.js: {}
+    js/owl.carousel.min.js: {}
+    js/plugins.js: {}
+    js/popper.min.js: {}
+    js/site.js: {}
+    js/slick.min.js: {}
+    js/wow.min.js: {}
