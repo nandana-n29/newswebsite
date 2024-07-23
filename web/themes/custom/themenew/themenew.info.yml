@@ -11,7 +11,8 @@ regions:
   brand: 'Brand'
   main_navigation: 'Main Navigation'
   trend_area: 'Trend'
-  content: 'Content'
+  main_content: 'Content'
+  bottom: 'bottom'
   footer: 'footer'
 
   
